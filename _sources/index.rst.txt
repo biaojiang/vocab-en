@@ -1,0 +1,23 @@
+.. BBC English Vocabulary documentation master file, created by
+   sphinx-quickstart on Thu Jan 25 14:34:37 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to BBC English Vocabulary!
+==================================
+
+This vocabulary collects new and modern words, phrases and sentences from `BBC NEWS <http://www.bbc.com/news>`_, with Chinese translations taken from `Bing Dict <http://cn.bing.com/dict/?mkt=zh-cn`_.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   words 
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

@@ -1,0 +1,8 @@
+A
+=
+
+E
+=
+
+.. attribute:: exonerate [ɪɡˈzɒnəreɪt]
+``v.``  宣布（某人）无罪；免除责任

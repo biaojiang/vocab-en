@@ -6,7 +6,7 @@
 Welcome to BBC English Vocabulary!
 ==================================
 
-This vocabulary collects new and modern words, phrases and sentences from `BBC NEWS <http://www.bbc.com/news>`_, with Chinese translations taken from `Bing Dict <http://cn.bing.com/dict/?mkt=zh-cn`_.
+This vocabulary collects new and modern words, phrases and sentences from `BBC NEWS <http://www.bbc.com/news>`_, with Chinese translations taken from `Bing Dict <http://cn.bing.com/dict/?mkt=zh-cn>`_.
 
 .. toctree::
    :maxdepth: 2

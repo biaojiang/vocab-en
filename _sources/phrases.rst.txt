@@ -1,0 +1,15 @@
+
+Phrases
+=======
+
+A
+-
+
+E
+-
+
+.. attribute:: pneumatic tyre
+
+充气轮胎. pneumatic [njuːˈmætɪk] `adj.`  充气的；风动的  
+
+

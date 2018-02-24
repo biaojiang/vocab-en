@@ -12,7 +12,8 @@ This vocabulary collects new and modern words, phrases and sentences from `BBC N
    :maxdepth: 2
    :caption: Contents:
    
-   words 
+   words
+   phrases 
 
 
 Indices and tables

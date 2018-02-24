@@ -1,9 +1,29 @@
+
+Words
+=====
+
 A
-=
+-
 
 E
-=
+-
 
 .. attribute:: exonerate
+
 [ɪɡˈzɒnəreɪt] ``v.``  宣布（某人）无罪；免除责任
 
+.. attribute:: frugality
+
+[frʊ'ɡælətɪ] ``n.``  节俭；俭朴
+
+.. attribute:: duress
+
+[djʊˈres] ``n.``  胁迫；强迫
+
+.. attribute:: sensationalise
+
+``v.``  故作耸人听闻地夸张；大肆渲染
+
+.. attribute:: saccharin
+
+['sækərɪn] ``n.``  糖精

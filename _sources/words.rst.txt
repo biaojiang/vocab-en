@@ -1,4 +1,3 @@
-
 Words
 =====
 
@@ -27,3 +26,23 @@ E
 .. attribute:: saccharin
 
 ['sækərɪn] ``n.``  糖精
+
+.. attribute:: farce
+
+[fɑː(r)s] ``n.``. 闹剧. ``v.``. 使带滑稽趣味
+
+.. attribute:: invincible
+
+``adj.``. 不可战胜的；不能改变的
+
+M
+-
+
+.. attribute:: mockery
+
+[ˈmɑkəri] ``n.`` 嘲笑；笑柄
+
+.. attribute:: mollusc
+
+UK [ˈmɒləsk] ``n.`` 软体动物
+

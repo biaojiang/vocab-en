@@ -4,6 +4,41 @@ Words
 A
 -
 
+.. attribute:: aerobic
+
+US [eˈroʊbɪk] 有氧的；增强心肺功能的
+
+
+.. attribute:: accordion
+
+手风琴
+
+.. attribute:: amass
+
+[əˈmæs] （尤指大量）积累
+
+.. attribute:: affluent
+
+[ˈæfluənt] 富裕的
+
+C
+_
+
+.. cul-de-sac
+
+死巷；绝境
+
+.. attribute:: consternation
+
+惊愕; 惊慌失措
+
+D
+_
+
+.. attribute:: deterrent
+
+``n.``  威慑因素；遏制力. ``adj.`` 威慑的
+
 E
 -
 
@@ -35,6 +70,13 @@ E
 
 ``adj.``. 不可战胜的；不能改变的
 
+F
+_
+
+.. attribute:: forte
+
+[fɔrt] 专长；特长
+
 M
 -
 
@@ -46,3 +88,23 @@ M
 
 UK [ˈmɒləsk] ``n.`` 软体动物
 
+R
+_
+
+.. attribute:: rappel
+
+[ræˈpel] 坐式下降法, 双脚蹬陡坡或峭壁自己放绳下滑
+
+S
+_
+
+.. attribute:: salubrious
+
+US [səˈlubriəs] 环境宜人的；清洁而有益健康的
+
+W
+_
+
+.. attribute:: whine
+
+发牢骚
